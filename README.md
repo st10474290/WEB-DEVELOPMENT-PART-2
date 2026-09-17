@@ -110,5 +110,5 @@ Available at: https://www.ibm.com/think/topics/real-time-operating-system [Acces
 [Accessed sep 2026].
 IT Web, 2024. ITWeb. [Online] 
 Available at: https://www.itweb.co.za/article/capitec-uses-bi-ai-to-offer-safer-banking-experience/8OKdWMDXjQBMbznQ
-[Accessed 2026].
+[Accessed 2026]..
 

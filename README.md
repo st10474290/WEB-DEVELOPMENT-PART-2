@@ -90,7 +90,7 @@ CHANGELOG FROM PART 1 TO PART2
 - Added responsive mobile navigation.
 
 SITEMAP
-
+https://www.viaggimondo.it/wp-content/uploads/2024/07/mappa-johannesburg.png
 
 REFERENCES
 AI, o., 2025. chatGPT. [Online] 
